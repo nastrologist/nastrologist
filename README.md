@@ -1,4 +1,5 @@
 Greetings.
+
 Participated in preparations for ESA's ARIEL mission. 
 Mainly Python, learning C (and what else becomes necessary).
 Currently working on a small astronomy related popular science project.
