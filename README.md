@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @nastrologist
-- 👀 I’m interested in Puerto Rican Guinea Pigs
-- 🌱 I’m currently learning .
-- 💞️ I’m looking to collaborate on warcrimes
-- 📫 How to reach me: 1600 Pennsylvania Avenue NW, Washington, DC
+Greetings.
+Participated in preparations for ESA's ARIEL mission. 
+Mainly Python, learning C (and what else becomes necessary).
+Currently working on a small astronomy related popular science project.
 
 <!---
 nastrologist/nastrologist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
